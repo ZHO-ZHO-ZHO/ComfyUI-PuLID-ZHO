@@ -1,0 +1,6 @@
+insightface
+onnxruntime-gpu
+basicsr
+facexlib
+timm
+ftfy
