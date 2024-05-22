@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-pulid-zho"
+description = ""
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["insightface", "onnxruntime-gpu", "basicsr", "facexlib", "timm", "ftfy"]
+
+[project.urls]
+Repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-PuLID-ZHO"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PuLID-ZHO"
+Icon = ""
