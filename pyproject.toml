@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-pulid-zho"
-description = ""
+description = "Unofficial implementation of PuLID（diffusers） for ComfyUI"
 version = "1.0.0"
 license = "LICENSE"
 dependencies = ["insightface", "onnxruntime-gpu", "basicsr", "facexlib", "timm", "ftfy"]
